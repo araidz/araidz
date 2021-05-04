@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @araidz
-- 👀 I’m interested in Automation, Web Dev and 
+- 👀 I’m interested in Automation and Web Dev
 - 🌱 I’m currently learning Python, Front End and Back End technologies 
 - 💞️ I’m looking to collaborate on beginner web projects
 - 📫 How to reach me ...
